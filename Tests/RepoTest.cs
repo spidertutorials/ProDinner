@@ -4,6 +4,7 @@ using Omu.ProDinner.Data;
 
 namespace Omu.ProDinner.Tests
 {
+	[Ignore]
     public class RepoTest : IntegrationTestsBase
     {
         [Test]

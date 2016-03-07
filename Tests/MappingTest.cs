@@ -18,6 +18,7 @@ namespace Omu.ProDinner.Tests
             urepo = new UniRepo(new DbContextFactory());
         }
 
+		[Ignore]
         [Test]
         public void AutoTest()
         {

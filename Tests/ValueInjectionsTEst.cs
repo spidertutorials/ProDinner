@@ -28,7 +28,7 @@ namespace Omu.ProDinner.Tests
             Assert.AreEqual(2, dinnerInput.Meals.Count());
             Assert.AreEqual(3, dinnerInput.Meals.First());
         }
-
+		[Ignore]
         [Test]
         public void IntsToEntities()
         {
