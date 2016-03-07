@@ -195,12 +195,6 @@
     <Content Include="App_Readme\Elmah.txt" />
     <Content Include="Content\themes\black-tie\awe_icons.png" />
     <Content Include="Content\themes\black-tie\pm.png" />
-    <Content Include="Content\themes\boot\AwesomeMvc.css" />
-    <Content Include="Content\themes\boot\awe_icons.png" />
-    <Content Include="Content\themes\boot\editdel_black.png" />
-    <Content Include="Content\themes\boot\loading.gif" />
-    <Content Include="Content\themes\boot\pm.png" />
-    <Content Include="Content\themes\boot\Site.css" />
     <Content Include="Content\themes\bui\AwesomeMvc.css" />
     <Content Include="Content\themes\bui\awe_icons.png" />
     <Content Include="Content\themes\bui\editdel_black.png" />
